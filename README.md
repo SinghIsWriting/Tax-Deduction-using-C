@@ -9,9 +9,10 @@ Prerequisites
 
 How to Run
 1. Clone the repository or download the source code file.
-2. Open a terminal or command prompt.
-3. Navigate to the directory where the source code file is located.
-4. Compile the code using the C compiler. 
+2. git clone https://github.com/SinghIsWriting/Tax-Deduction-using-C.git
+3. Open a terminal or command prompt.
+4. Navigate to the directory where the source code file is located.
+5. Compile the code using the C compiler. 
 For example:
 gcc tax_deduction.c -o tax_deduction
 6. Run the compiled program:
